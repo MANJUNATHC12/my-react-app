@@ -1,4 +1,5 @@
 import './App.css';
+import Register from './Components/Register';
 import Home from './Home';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <h1>hello react</h1>
     <h1>hello manjunath</h1>
     <Home/>
+    <Register/>
     </>
   );
 }
