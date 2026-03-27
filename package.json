@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://manjunathc12.github.io/my-react-app/",
+  "homepage" : "https://github.com/MANJUNATHC12/my-react-app.git",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
