@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MANJUNATHC12/my-react-app.git/static/css/main.31d6cfe0.css",
-    "main.js": "/MANJUNATHC12/my-react-app.git/static/js/main.383fb896.js",
+    "main.js": "/MANJUNATHC12/my-react-app.git/static/js/main.211761d0.js",
     "static/js/453.dc03adb9.chunk.js": "/MANJUNATHC12/my-react-app.git/static/js/453.dc03adb9.chunk.js",
     "index.html": "/MANJUNATHC12/my-react-app.git/index.html",
-    "main.383fb896.js.map": "/MANJUNATHC12/my-react-app.git/static/js/main.383fb896.js.map",
+    "main.211761d0.js.map": "/MANJUNATHC12/my-react-app.git/static/js/main.211761d0.js.map",
     "453.dc03adb9.chunk.js.map": "/MANJUNATHC12/my-react-app.git/static/js/453.dc03adb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.383fb896.js"
+    "static/js/main.211761d0.js"
   ]
 }
